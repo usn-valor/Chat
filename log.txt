@@ -1,0 +1,10 @@
+2020.11.26 17:06:51: Server: Lilya connected
+You can change your nickname by typing change_nickname old nickname
+2020.11.26 17:06:51: Server: Your Nickname Lilya
+2020.11.26 17:16:05: Server: Lilya connected
+You can change your nickname by typing change_nickname old nickname
+2020.11.26 17:16:05: Server: Your Nickname Lilya
+2021.01.24 19:19:15: Server: Lilya connected
+You can change your nickname by typing change_nickname old nickname
+2021.01.24 19:19:15: Server: Your Nickname Lilya
+2021.01.24 19:19:19: Lilya: dfbdb
